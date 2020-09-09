@@ -4,7 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "server": "node server.js",
+    "build": "ng build && node server.js",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -21,7 +22,12 @@
     "@angular/router": "~10.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.10.2",
+    "body-parser": "1.19.0",
+    "bootstrap": "3.4.1",
+    "express": "4.17.1",
+    "morgan": "1.10.0",
+    "serve-favicon": "2.5.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1001.0",
@@ -41,6 +47,7 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~4.0.2"
+    "typescript": "~4.0.2",
+    "concurrently": "5.2.0"
   }
 }
