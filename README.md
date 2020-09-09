@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
-This project is about a tracking of book through web application. This whole project is written by following the clean code principles. These principles helps you to structure the Angular app by following accepted best practices of clean code. As a outcome, you deliver performant application to your clients and easy to maintaion for the developers.
+This project is about a tracking of book through web application. This whole project is written by following the clean code principles. These principles helps you to structure the Angular app by following accepted best practices of clean code. As a outcome, you deliver performant application to your clients and easy maintenance for the developers.
 
 Thanks to Brice willson for this educational live training in [Angular clean code pattern](https://www.oreilly.com/live-training/courses/angular-next-steps-patterns-for-clean-code/0636920370505/#).
 
