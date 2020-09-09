@@ -6,6 +6,13 @@ This project is about a tracking of book through web application. This whole pro
 
 Thanks to Brice willson for this educational live training in [Angular clean code pattern](https://www.oreilly.com/live-training/courses/angular-next-steps-patterns-for-clean-code/0636920370505/#).
 
+### Libraries Used
+
+- [Angular](https://angular.io)
+- [Bootstrap 4](https://getbootstrap.com)
+- [RxJS](http://reactivex.io/rxjs)
+- [Jasmine](https://jasmine.github.io)
+
 ## Angular Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -34,9 +41,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-### Libraries Used
 
-- [Angular](https://angular.io)
-- [Bootstrap 4](https://getbootstrap.com)
-- [RxJS](http://reactivex.io/rxjs)
-- [Jasmine](https://jasmine.github.io)
